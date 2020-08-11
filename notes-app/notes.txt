@@ -1,0 +1,2 @@
+This is a test file via JS
+This is an appended text
